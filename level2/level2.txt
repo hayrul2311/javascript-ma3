@@ -1,0 +1,40 @@
+JavaScript MA03
+----------------
+Level 2
+
+1. In your own words, describe what JavaScript Code Style is.
+Javascript code styles are  set of standards that outline how code should be written and organized.
+Like use of camelCase. So developers can read eachothers codes easier.
+ 
+2. What is a Regular Expression?
+Regular expressions are patterns used to match character combinations in strings. In JavaScript,
+ regular expressions are also objects. These patterns are used  for test methods. 
+
+3. What does the .random() method do?
+
+returns a random number from 0 inclusive til 1 exclusive.
+
+4. What does the .sort() method do?
+
+sorts the items of an array.
+
+5. What does the .reverse() method do?
+
+reverse the order of the items in an array.
+
+6. List two examples of bad JavaScript code.
+
+not following naming convention,
+not caring about errors.
+
+7. What data types can a JSON object contain?
+
+string, number, object, array, boolean, null.
+
+8. What is minifying JavaScript Code?
+
+the process of removing all unnecessary characters from the source codes of interpreted programming languages or
+ markup languages without changing their functionality.
+
+9. What is a global variable?
+a variable with global scope that can be accessed by all functions and declared outside of function.
