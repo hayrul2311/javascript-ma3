@@ -19,3 +19,4 @@ for(var key in data.video[0]){
 	console.log(key);
 	
 	}
+//cant figure out how to console.log inner data array. 
